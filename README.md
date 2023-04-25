@@ -2,5 +2,5 @@
 Data Visualization for New York City(NYC) Taxies
 
 
-# steps to run
+### steps to run
 python app.py
